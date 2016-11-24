@@ -1,0 +1,16 @@
+div {
+    margin-bottom: 50px;
+}
+
+img {
+    width: 350px;
+}
+
+h2 {
+    float: right;
+}
+
+p {
+    float: right;
+    clear: right;
+}
